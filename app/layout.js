@@ -37,7 +37,7 @@ export default function RootLayout({ children }) {
         {/* footer */}
         <footer className="bg-muted/50">
           <div className="container mx-auto px-4 text-center text-gray-200">
-            <p>Shailendra</p>
+            <p>Book your next appointment with ease at - CareSlot</p>
           </div>
         </footer>
         </ThemeProvider>
